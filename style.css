@@ -321,7 +321,7 @@ p{
 
 .project-container{
   display: grid;
-  grid-template-columns:repeat(auto-fit,minmax(488px,1fr));
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
   margin-top: 50px;
   gap: 30px;
 
@@ -430,4 +430,5 @@ p{
 .footer-text{
   opacity: 0.5;
 }
+
 
